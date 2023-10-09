@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Harishankar Vashishtha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Experienced Data Scientist skilled in Python, MySQL, Machine Learning, and NLP. Currently working at Blenheim Chalcot India. Strong ability to analyze data, excel in problem-solving, and deliver impactful results. Effective communicator with a talent for persuading others. Let's connect and collaborate!Experienced Data Scientist skilled in Python, MySQL, Machine Learning, and NLP. Currently working at Blenheim Chalcot India. Strong ability to analyze data, excel in problem-solving, and deliver impactful results. Effective communicator with a talent for persuading others. Let's connect and collaborate!
 
-<!---
-harishankar-bcindia/harishankar-bcindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Top skills:
+Data Science • Machine Learning • Statistical Data Analysis • Python (Programming Language) • SQL
